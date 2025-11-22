@@ -29,11 +29,13 @@ This project leverages Flask for the web interface and TensorFlow/Keras for the 
 * **Landmark analysis**: Utilizes Landmark module to extract key points and gestures from hand movements.
 * **Machine learning translation**: Employs Random Forest algorithm to classify and interpret gestures into corresponding text.
 * **Text-to-speech**: For better communication the text can be converted to spoken language using the speech synthesis.
-
+## Architecture Diagram
 
 <img width="610" height="666" alt="image" src="https://github.com/user-attachments/assets/a585174b-5444-43cf-9236-393576083cc0" />
 
+## Demo
 
+<img width="733" height="584" alt="image" src="https://github.com/user-attachments/assets/eaae8275-7b89-40e4-b5f9-58d9deb98fcf" />
 
-
+![slc](https://github.com/user-attachments/assets/1a904f18-4f69-4d83-bf79-90acdf940af7)
 

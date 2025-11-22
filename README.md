@@ -36,5 +36,6 @@ This project leverages Flask for the web interface and TensorFlow/Keras for the 
 
 
 https://github.com/user-attachments/assets/983e96c5-e43a-47b1-952b-21b0282f97ff
+https://raw.githubusercontent.com/username/repo/main/slc.mp4
 
 

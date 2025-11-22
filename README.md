@@ -35,6 +35,3 @@ This project leverages Flask for the web interface and TensorFlow/Keras for the 
 
 
 
-
-https://github.com/user-attachments/assets/4d418da5-e225-42bf-9567-a210b58af002
-

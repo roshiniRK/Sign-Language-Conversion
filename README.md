@@ -33,5 +33,3 @@ This project leverages Flask for the web interface and TensorFlow/Keras for the 
 
 <img width="610" height="666" alt="image" src="https://github.com/user-attachments/assets/a585174b-5444-43cf-9236-393576083cc0" />
 
-
-
